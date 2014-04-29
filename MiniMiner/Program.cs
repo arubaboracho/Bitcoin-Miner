@@ -240,7 +240,7 @@ namespace MiniMiner
         {
             Console.Clear();
             Console.WriteLine("*****************************");
-            Console.WriteLine("*** Minimal Bitcoin Miner ***");
+            Console.WriteLine("*** Aruba's Bitcoin Miner ***");
             Console.WriteLine("*****************************");
             Console.WriteLine();
         }

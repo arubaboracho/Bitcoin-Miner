@@ -9,7 +9,7 @@ using System.Security.Cryptography;
 
 namespace MiniMiner
 {
-    class Utils
+    class Utils //ç'mon
     {
         public static byte[] ToBytes(string input)
         {
